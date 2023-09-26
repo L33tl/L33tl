@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Maxim 👋
 
-<!--
-**L33tl/L33tl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-End Engineer with more than 4 years of programming experience. I have excellent knowledge in backend development on
+Python. Big part of my acitities is open-source.
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=l33tl&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=l33tl&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/l33tl/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=l33tl&layout=compact"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key points
+
+* Currently studying in [ITMO UNIVERSITY](https://www.itmo.ru/)
+
+## 🛠 Technical Stack
+
+* Python/Java/Kotlin/C++/Bash
+* MySQL, PostgreSQL, MongoDB
+* Django, Flask, PyQT, AIogram
+
+📫 You can reach me: <a href="mailto:maxim.y.mischenko@gmail.com">
+e-mail</a> | <a href="https://t.me/L33t_l" rel="nofollow">Telegram</a>
