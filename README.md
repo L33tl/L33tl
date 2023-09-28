@@ -25,4 +25,4 @@ Software engineer with years of programming experience
 
 ###
 
-#### 📧 You can reach me: <a href="https://t.me/L33t_l" rel="nofollow">Telegram</a>
+📧 You can reach me: <a href="https://t.me/L33t_l" rel="nofollow">Telegram</a>
