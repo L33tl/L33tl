@@ -1,6 +1,9 @@
 # Hi, I'm Maxim 👋
 
-Software engineer with years of programming experience
+Motivated DevOps engineer with a programming background and soft
+skills. Focused on continuous improvement. Passionate about optimizing
+system performance through scalable architecture, efficient code, and
+proactive problem-solving
 
 ###
 
@@ -13,16 +16,17 @@ Software engineer with years of programming experience
 
 ## 👨‍💻 Key points
 
+* Automation, CI/CD, Configuration Management
+* Docker, Git, Nginx
+* Soft skills
 * Currently studying in [ITMO UNIVERSITY](https://www.itmo.ru/)
 * ML enjoyer
-* Android apps developer
 
 ## 🛠️ Technical Collection
 
-* Python/Kotlin/C++
-* Django, AIogram
+* Python/Bash/C++
 * MongoDB, PostgreSQL
 
 ###
 
-📧 You can reach me: <a href="https://t.me/L33t_l" rel="nofollow">Telegram</a>
+📧 You can reach me: <a href="https://t.me/FL33t1" rel="nofollow">Telegram</a>
